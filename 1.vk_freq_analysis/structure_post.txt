@@ -1,0 +1,284 @@
+- attachments
+	- photo
+		- access_key
+		- album_id
+		- date
+		- id
+		- owner_id
+		- post_id
+		- sizes
+			- height
+			- type
+			- url
+			- width
+ 
+			- height
+			- type
+			- url
+			- width
+ 
+			- height
+			- type
+			- url
+			- width
+ 
+			- height
+			- type
+			- url
+			- width
+ 
+			- height
+			- type
+			- url
+			- width
+ 
+			- height
+			- type
+			- url
+			- width
+ 
+			- height
+			- type
+			- url
+			- width
+ 
+			- height
+			- type
+			- url
+			- width
+ 
+			- height
+			- type
+			- url
+			- width
+ 
+			- height
+			- type
+			- url
+			- width
+ 
+		- text
+		- user_id
+ 
+	- type
+ 
+- comments
+	- can_post
+	- count
+	- groups_can_post
+ 
+- date
+- from_id
+- id
+- is_favorite
+- likes
+	- can_like
+	- can_publish
+	- count
+	- user_likes
+ 
+- marked_as_ads
+- owner_id
+- post_source
+	- type
+ 
+- post_type
+- reposts
+	- count
+	- user_reposted
+ 
+- text
+- textcomment
+	- count
+	- items
+		- date
+		- from_id
+		- id
+		- likes
+			- can_like
+			- count
+			- user_likes
+ 
+		- owner_id
+		- parents_stack
+		- post_id
+		- text
+		- thread
+			- can_post
+			- count
+			- groups_can_post
+			- items
+				- date
+				- from_id
+				- id
+				- likes
+					- can_like
+					- count
+					- user_likes
+ 
+				- owner_id
+				- parents_stack
+				- post_id
+				- reply_to_comment
+				- reply_to_user
+				- text
+ 
+				- attachments
+					- photo
+						- access_key
+						- album_id
+						- date
+						- id
+						- owner_id
+						- sizes
+							- height
+							- type
+							- url
+							- width
+ 
+							- height
+							- type
+							- url
+							- width
+ 
+							- height
+							- type
+							- url
+							- width
+ 
+							- height
+							- type
+							- url
+							- width
+ 
+							- height
+							- type
+							- url
+							- width
+ 
+							- height
+							- type
+							- url
+							- width
+ 
+							- height
+							- type
+							- url
+							- width
+ 
+							- height
+							- type
+							- url
+							- width
+ 
+							- height
+							- type
+							- url
+							- width
+ 
+						- text
+						- user_id
+ 
+					- type
+ 
+				- date
+				- from_id
+				- id
+				- likes
+					- can_like
+					- count
+					- user_likes
+ 
+				- owner_id
+				- parents_stack
+				- post_id
+				- reply_to_comment
+				- reply_to_user
+				- text
+ 
+				- attachments
+					- photo
+						- access_key
+						- album_id
+						- date
+						- id
+						- owner_id
+						- sizes
+							- height
+							- type
+							- url
+							- width
+ 
+							- height
+							- type
+							- url
+							- width
+ 
+							- height
+							- type
+							- url
+							- width
+ 
+							- height
+							- type
+							- url
+							- width
+ 
+							- height
+							- type
+							- url
+							- width
+ 
+							- height
+							- type
+							- url
+							- width
+ 
+							- height
+							- type
+							- url
+							- width
+ 
+							- height
+							- type
+							- url
+							- width
+ 
+							- height
+							- type
+							- url
+							- width
+ 
+							- height
+							- type
+							- url
+							- width
+ 
+						- text
+						- user_id
+ 
+					- type
+ 
+				- date
+				- from_id
+				- id
+				- likes
+					- can_like
+					- count
+					- user_likes
+ 
+				- owner_id
+				- parents_stack
+				- post_id
+				- reply_to_comment
+				- reply_to_user
+				- text
+ 
+			- show_reply_button
+ 
+ 
+ 
+- views
+	- count
+ 
+ 
